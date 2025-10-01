@@ -12,7 +12,7 @@
 
 ---
 
-**MoonZoon** is a Rust Fullstack Framework to build Web and Desktop apps with Multithreading and Durable Computing. No HTML, CSS or JS needed..
+**MoonZoon** is a Rust Fullstack Framework to build Web and Desktop apps with Multithreading and Durable Computing. No HTML, CSS or JS needed....
 
 ---
 
